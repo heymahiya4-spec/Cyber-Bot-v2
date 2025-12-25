@@ -88,8 +88,8 @@
   <!-- Right Side - Academy Promotion -->
   <text x="1200" y="450" text-anchor="middle" font-family="monospace" 
         font-size="80" font-weight="bold" fill="#00ff00" filter="url(#hackerglow3)">
-    Grandpa
-    ACADEMY
+    AKASH
+    SHOSHR
     <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
   </text>
   <text x="1200" y="550" text-anchor="middle" font-family="monospace" 
@@ -98,7 +98,7 @@
   <!-- Bottom Text -->
   <text x="960" y="850" text-anchor="middle" font-family="monospace" 
         font-size="40" fill="#00ff00" filter="url(#hackerglow3)">
-    CyberBot v2.0.0 - Powered by Grandpa Academy
+    CyberBot v2.0.0 - Powered by AKASH HAKER
     <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
   </text>
   
