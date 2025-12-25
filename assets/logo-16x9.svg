@@ -98,7 +98,7 @@
   <!-- Bottom Text -->
   <text x="960" y="850" text-anchor="middle" font-family="monospace" 
         font-size="40" fill="#00ff00" filter="url(#hackerglow3)">
-    CyberBot v2.0.0 - Powered by Grandpa Academy
+    CyberBot v2.0.0 - Powered by SAMU+SHOSHE
     <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
   </text>
   
